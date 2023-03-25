@@ -12,11 +12,11 @@ TACKLESS_AWS 구현을 위한 초석
 * Update
 ---
 ## Technology
-* Google API Login Service
+* Google Login Service API (OAuth 2.0)
 * AWS
 ---
 ## IDE
-* Intellij (community)
+* IntelliJ (community)
 ---
 ## Collaboration Tools
 * GitHub
